@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
 	scanf("%d", &idade);
 	
 	printf("\n nome: %s", nome);
-	printf("\n nome: %s", endereco);
+	printf("\n endereco: %s", endereco);
 	printf("\n idade: %d \n", idade);
 	
 	system("pause");
